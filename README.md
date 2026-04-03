@@ -71,7 +71,7 @@ Create an `application.properties` file (or update the existing one) inside `src
 ```properties
 gemini.api.key=your-gemini-api-key
 gemini.api.url=https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent
-server.port=8081
+server.port=8080
 ```
 
 Build and run the backend:
